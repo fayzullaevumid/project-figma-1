@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100%;
+    height: 3rem;
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+}
+#text{
+    margin-left: 12rem;
+}
+h1{
+    text-align: center;
+}
+#card{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5rem;
+}
+#input{
+    width: 20rem;
+    border: 1px solid gray;    
+    outline: none;
+    height: 1.5rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+#input1{
+    width: 20.5rem;
+    border: 1px solid gray;    
+    outline: none;
+    height: 1.7rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+#input2{
+    width: 20rem;
+    border: 1px solid gray;    
+    outline: none;
+    height: 7rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+#input3{
+    margin-top: 1rem;
+    width: 20rem;
+}
+#blok{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.h3{
+    margin-left: 27rem;
+    margin-top: 4rem;
+}
+#card2{
+    display: flex;
+    flex-direction: row;
+}
+#text6{
+    margin-left: 0.5rem;
+}
+#input4{
+    width: 1rem;
+}
+#blok2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 27rem;
+}
+#p4{
+    margin-top:4rem ;
+    text-align: center;
+    color:  #595cf1;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+
+#a2{
+    text-decoration: none
+}

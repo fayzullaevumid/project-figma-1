@@ -1,0 +1,135 @@
+.img{
+    position: absolute;
+    top: 12rem;
+    right: 10rem;
+    width: 35%;
+    border-radius: 20px;
+}
+.container1{
+    margin-top: 10rem;
+    margin-left: 12rem;
+}
+.icon2{
+    position: absolute;
+    top: 26.4rem;
+    left: 20rem;
+    width: 2rem;
+}
+.text1{
+    margin-left: 12rem;
+    margin-top: 22rem;
+}
+.text2{
+    width: 15rem;
+    color: blue;
+    border-bottom: 1px dashed blue;
+}
+.container3{
+    margin-left: 12rem;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.button1{
+    width: 3rem;
+    height: 2rem;
+    background-color: rgb(75, 176, 244);
+    border: none;
+    border-radius: 10px;
+    margin-left: 2rem;
+    cursor: pointer;
+    color: white;
+}
+.card1{
+    width: 18rem;
+    height: 10rem;
+    background-color: #52A5D9;
+    margin: 1.5rem;
+    border-radius: 20px;
+    color: white;
+}
+.container4{
+    position: absolute;
+    top: 49rem;
+    right: 6rem;
+    display: flex;
+    flex-wrap:wrap ;
+}
+.h4{
+    margin: 1.5rem;
+}
+.h3{
+    margin-left: 1.5rem;
+    margin-top: 6rem;
+}
+.container5{
+    width: 100%;
+    height: 47rem;
+    background-color: rgb(236, 236, 236);
+    margin-top: 20rem;
+}
+.text5{
+    position: absolute;
+    top: 90rem;
+    left: 12rem;
+     
+}
+.text6{
+    position: absolute;
+    top: 95rem;
+    left: 12rem;
+    font-size: 1.1rem;
+}
+.img2{
+    width: 30rem;
+    position: absolute;
+    top: 92rem;
+    right: 10rem;
+    border-radius: 25px;
+    
+    
+}
+.blok{
+    width: 30rem;
+    height: 10rem;
+    background-color: #52A5D9;
+    border-radius: 20px;
+    position: absolute;
+    top: 112rem;
+    right: 10rem;
+    color: white;
+}
+.p1{
+    margin-left: 1rem;
+}
+.p2{
+    margin-left: 1rem;
+    margin-top: 4rem;
+}
+.icon3{
+    width: 3rem;
+    position: absolute;
+    top: 100rem;
+    right: 23rem;
+    cursor: pointer;
+}
+.text7{
+    margin-top: 6rem;
+    margin-left: 12rem;
+}
+.img5{
+    width: 13rem;
+    height: 8rem;
+    border-radius: 15px;
+}
+.container8{
+    display: flex;
+    align-items: center;
+}
+.cards1{
+    margin-left: 12rem;
+}
+.cards{
+    margin-left: 4rem;
+}
